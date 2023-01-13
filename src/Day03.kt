@@ -14,6 +14,7 @@ fun main() {
                     common.code - 'a'.code + 1
                 }
             } ?: 0
+
             result
         }
     }
